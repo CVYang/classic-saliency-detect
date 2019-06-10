@@ -1,0 +1,3 @@
+/home/vayneli/tracking_big/build/CMakeFiles/rebuild_cache.dir
+/home/vayneli/tracking_big/build/CMakeFiles/edit_cache.dir
+/home/vayneli/tracking_big/build/CMakeFiles/example.dir
